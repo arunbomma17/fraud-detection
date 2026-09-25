@@ -56,9 +56,11 @@ data/processed/*
 !data/processed/.gitkeep
 
 # Trained Models & Serialized Artifacts (Keep .gitkeep)
-models/*.pkl
 models/*.joblib
 !models/.gitkeep
+!models/fraud_model.pkl
+!models/pipeline.pkl
+!models/scaler.pkl
 
 # OS generated files
 .DS_Store
