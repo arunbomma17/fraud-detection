@@ -175,8 +175,8 @@ All diagnostic figures are dynamically generated and stored in `reports/figures/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/AI-Ecommerce-Fraud-Detection.git
-cd AI-Ecommerce-Fraud-Detection
+git clone https://github.com/arunbomma17/fraud-detection.git
+cd fraud-detection
 
 # 2. Create virtual environment
 python -m venv venv
@@ -329,6 +329,6 @@ pytest tests/ -v
 
 ## 13. Author & License
 
-* **Developer**: Senior Data Scientist / ML Engineer
-* **Portfolio**: [GitHub Profile](https://github.com/) | [LinkedIn](https://linkedin.com/)
+* **Developer**: Arun Bomma
+* **Portfolio**: [GitHub Profile](https://github.com/arunbomma17)
 * **License**: Distributed under the [MIT License](LICENSE).
